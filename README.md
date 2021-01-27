@@ -1,5 +1,5 @@
 # detectbs5breakpoint
-Detect Bootstrap5 Breakpoint
+A very light plugin for detecting Bootstrap5 breakpoints
 
 ## Usage
 
